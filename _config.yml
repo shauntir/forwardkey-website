@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
+title:        Forward Key
+tagline:      We are no longer providing software development services. Sorry for the inconvenience
+baseurl:      "forwardkey-website"
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Shaun Tirubeni
+  url:        http://forwardkey.co.za
 
 # Gems
 gems:
